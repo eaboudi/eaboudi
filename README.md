@@ -26,23 +26,12 @@ Here's a snapshot of the technologies and languages I'm currently working with:
 
 
 
-## 💻 My Projects
-
-While I'm constantly working on new and exciting things, here are a few projects I'm particularly proud of (details coming soon!):
-
-*   **Project 1:** [Link to Project 1]
-*   **Project 2:** [Link to Project 2]
-*   **Project 3:** [Link to Project 3]
-
-
-
-
 ## 📫 Connect with Me
 
 Feel free to reach out if you have any questions or just want to connect!
 
-*   **GitHub:** [Your GitHub Profile Link Here]
-*   **LinkedIn:** [Your LinkedIn Profile Link Here (Optional)]
+*   **GitHub: https://github.com/eaboudi/eaboudi
+*   **LinkedIn: www.linkedin.com/in/elhoussaine-aboudi-04653a2a4
 
 
 
