@@ -30,8 +30,7 @@ Here's a snapshot of the technologies and languages I'm currently working with:
 
 Feel free to reach out if you have any questions or just want to connect!
 
-*   **GitHub: https://github.com/eaboudi/eaboudi
-*   **LinkedIn: www.linkedin.com/in/elhoussaine-aboudi-04653a2a4
-
+*   **GitHub: https://github.com/eaboudi
+*   **LinkedIn: www.linkedin.com/in/eaboudi
 
 
